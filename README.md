@@ -1,5 +1,6 @@
 # ☄️ About Me
-***Profound interest over Cloud technologies & Machine learning.<br>Good grasp over Networking & Web2 concepts.<br>***
+***🌌 Profound interest over Cloud technologies & Machine learning.<br>Pretty good hold over Networking & Web2 concepts 🌊.<br>***
+***⛷ Currently Traversing the ☁️ Cloud Native World.***
 
 ## 📬 Connect Here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-deshpande-35ab141b9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aryandeshpande) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DeshpandAryan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCjwES7gIHxim7wvMYLv5OVw) 
