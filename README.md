@@ -1,5 +1,5 @@
 # ☄️ About Me
-***🌌 Profound interest over Cloud technologies & Machine learning.<br>Pretty good hold over Networking & Web2 concepts 🌊.<br>***
+***🌌 Profound interest over Cloud technologies & Machine learning.<br>Proficient over Networking & Web2 concepts 🌊.<br>***
 ***⛷ Currently Traversing the ☁️ Cloud Native World.***
 
 ## 📬 Connect Here
