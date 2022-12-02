@@ -77,13 +77,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-Deshpande/Aryan-Deshpande/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Aryan-Deshpande&icon=7&color=10"  />
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
