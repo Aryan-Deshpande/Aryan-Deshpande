@@ -1,6 +1,7 @@
-Hey I am @Aryan-Deshpande 👋,
-**A Computer Science Engineering Student. 
-<b> 
+Hey there, I am @Aryan-Deshpande 👋,
+a Computer Science Engineering Undergraduate Student. 
+<br>
+**<b> 
 Well versed in 🌊 Machine Learning & Distributed systems ecosystems.**<br>🌌 **Works quite often with Pytorch, Azure, AWS, Docker, Kubernetes.**
 <br>
 **⛷ Currently Traversing the ☁️ Deep Learning world**
