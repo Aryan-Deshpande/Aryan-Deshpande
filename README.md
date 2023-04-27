@@ -2,9 +2,9 @@
 ## a Computer Science Engineering Undergraduate Student. 
 
 <br>
-**
-<b> 
-Well versed in 🌊 Machine Learning & Distributed systems ecosystems.**<br>🌌 **Works quite often with Pytorch, Azure, AWS, Docker, Kubernetes.**
+**Well versed in 🌊 Machine Learning & Distributed systems ecosystems.**
+<br>
+🌌 **Works quite often with Pytorch, Azure, AWS, Docker, Kubernetes.**
 <br>
 **⛷ Currently Traversing the ☁️ Deep Learning world**
 <br><br>
