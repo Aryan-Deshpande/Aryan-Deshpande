@@ -1,9 +1,9 @@
 # Hey there, I'm @Aryan-Deshpande 👋,
 ## a Computer Science Engineering Undergraduate Student. 
 
-**Well versed in 🌊 Machine Learning & Distributed compute ecosystems.**
+**Deep Learning Demon**
 
-**🌌 Works quite often with Pytorch, Azure, AWS, Docker, Kubernetes.**
+**Favourite Tools --> Pytorch, Azure, AWS, Docker, Kubernetes.**
 
 **⛷ Currently Traversing the ☁️ Deep Learning world**
 
