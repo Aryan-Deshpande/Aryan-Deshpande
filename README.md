@@ -1,13 +1,11 @@
 # Hey there, I'm @Aryan-Deshpande 👋,
 ## a Computer Science Engineering Undergraduate Student. 
 
-![pic](https://cdn.discordapp.com/attachments/835750351621718030/1217123783341768796/360_F_283048740_Q8T14AhMqDooI1lLpVYMSu4Dkl59HvwY_1.jpg?ex=6602e1db&is=65f06cdb&hm=988efd1566d54bd88cd1510c89987daf3cdd722697162eedcbd64db720593a32&)
 **Well versed in 🌊 Machine Learning & Distributed compute ecosystems.**
 
 **🌌 Works quite often with Pytorch, Azure, AWS, Docker, Kubernetes.**
 
 **⛷ Currently Traversing the ☁️ Deep Learning world**
-
 
 ###
 
