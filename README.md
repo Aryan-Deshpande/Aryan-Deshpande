@@ -1,5 +1,5 @@
-# Hey there, I'm @Aryan-Deshpande 👋,
-## a Computer Science Engineering Undergraduate Student. 
+**Hey there, I'm @Aryan-Deshpande 👋,**
+**a Computer Science Engineering Undergraduate Student.** 
 
 **Interests: Human-Machine Interaction, Large Language Models, 3D reconstruction models**
 
