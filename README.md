@@ -1,9 +1,7 @@
 **Hey there, I'm @Aryan-Deshpande 👋,**
-**a Computer Science Engineering Undergraduate Student.** 
-
-**Research Interests: Human-Machine Interaction, Large Language Models, 3D reconstruction models**
-
-**Favourite Tools: Pytorch, Azure, AWS, Docker, Kubernetes.**
+**Computer Science Undergraduate** 
+**Backend Infrastructure Greek God**
+**Research Interests: Language Models, Robotics, Generative 3D modelling**
 
 **⛷ Currently Traversing the ☁️ Deep Learning world**
 
