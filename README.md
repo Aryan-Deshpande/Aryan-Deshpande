@@ -1,6 +1,9 @@
-**Hey there, I'm @Aryan-Deshpande 👋,**
+**Hey there, I'm @Aryan-Deshpande 👋**
+<br>
 **Computer Science Undergraduate** 
+<br>
 **Backend Infrastructure Greek God**
+<br>
 **Research Interests: Language Models, Robotics, Generative 3D modelling**
 
 **⛷ Currently Traversing the ☁️ Deep Learning world**
