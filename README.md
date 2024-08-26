@@ -2,7 +2,7 @@
 <br>
 **Computer Science Undergraduate** 
 <br>
-**Backend Infrastructure Greek God**
+**Deep Learning Greek God**
 <br>
 **Research Interests: Language Models, Robotics, Generative 3D modelling**
 
