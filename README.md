@@ -1,10 +1,10 @@
-**Hey there, I'm @Aryan-Deshpande 👋**
+*Hey there, I'm @Aryan-Deshpande 👋*
 <br>
-**recent CS graduate** 
+*recent CS graduate*
 <br>
-**Deep Learning Greek God**
+*Deep Learning Greek God*
 <br>
-**Research Interests: Language Models, Robotics, Generative 3D modelling**
+*Research Interests: Language Models, Robotics, Generative 3D modelling*
 
 ###
 
