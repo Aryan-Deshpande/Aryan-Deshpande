@@ -1,12 +1,10 @@
 **Hey there, I'm @Aryan-Deshpande 👋**
 <br>
-**Computer Science Undergraduate** 
+**recent CS graduate** 
 <br>
 **Deep Learning Greek God**
 <br>
 **Research Interests: Language Models, Robotics, Generative 3D modelling**
-
-**⛷ Currently Traversing the ☁️ Deep Learning world**
 
 ###
 
