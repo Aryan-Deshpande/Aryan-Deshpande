@@ -2,7 +2,7 @@
 <br>
 *recent CS graduate*
 <br>
-*Deep Learning Greek God*
+*Deep Learning God ?*
 <br>
 
 *Research Interests: Language Models, Robotics, Generative 3D modelling*
