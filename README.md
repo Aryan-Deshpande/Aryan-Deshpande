@@ -1,6 +1,7 @@
 *Hey there, I'm @Aryan-Deshpande 👋*
 <br>
-*recent CS graduate*
+*CS graduate*
+*Lead AI Scientist*
 <br>
 *Deep Learning Yesua ?*
 <br>
