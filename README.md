@@ -4,7 +4,7 @@
 <br>
 *Lead AI Scientist*
 <br>
-*Deep Learning Yesua ?*
+*Deep Learning ?*
 <br>
 
 *Research Interests: Language Models, Robotics, Generative 3D modelling*
